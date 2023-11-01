@@ -11,7 +11,7 @@ public class BlockTest {
     }
 }
 class Person{
-    int age;
+    int ag;
     String name;
     static String info = "初始化";
 
